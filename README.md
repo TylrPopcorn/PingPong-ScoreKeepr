@@ -9,5 +9,5 @@ Live: https://pingpong-scorekeepr.onrender.com/
 <sup>Credit goes to the original/external sources used.</sup>
 
 # Related Projects
--  [Pokemon Display Grid](https://github.com/TylrPopcorn/Pokemon-Display-Grid) - * demonstrating how to dynamically manipulate the DOM using JavaScript.*
+-  [Pokemon Display Grid](https://github.com/TylrPopcorn/Pokemon-Display-Grid) - *demonstrating how to dynamically manipulate the DOM using JavaScript.*
 -  [Projects List](https://github.com/TylrPopcorn/Projects-List) - *Explore other projects I have worked on*
