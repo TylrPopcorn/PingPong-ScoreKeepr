@@ -11,4 +11,5 @@ Live: https://pingpong-scorekeepr.onrender.com/
 # Related Projects
 -  [Pokemon Display Grid](https://github.com/TylrPopcorn/Pokemon-Display-Grid) - *demonstrating how to dynamically manipulate the DOM using JavaScript.*
 -  [Bulma Basics](https://github.com/TylrPopcorn/Bulma-Basics) - *Learn the basics of Bulma*
+-  [The Book](https://github.com/TylrPopcorn/The-Book) - *A project showcasing how to use BootStrap*
 -  [Projects List](https://github.com/TylrPopcorn/Projects-List) - *Explore other projects I have worked on*
